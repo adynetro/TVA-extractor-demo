@@ -1,3 +1,3 @@
 # TVA-extractor-demo
 
-a simple app that extracts tva from sum
+a simple app that extracts tva from total value
